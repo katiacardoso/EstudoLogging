@@ -1,0 +1,7 @@
+2022-11-07 16:05:55,464 - DEBUG - Entrou na Calculadora de Promoções 
+2022-11-07 16:05:55,464 - CRITICAL - Há algum produto com valor zerado no carrinho 
+2022-11-07 16:05:55,464 - INFO - Valor sem promocao: 10046 
+2022-11-07 16:05:55,465 - WARNING - Cuidado, carrinho com valor muito alto 
+2022-11-07 16:05:55,465 - INFO - Promoção Mais de Mil aplicada ! 
+2022-11-07 16:05:55,465 - INFO - Valor com promocao: 8036.8 
+2022-11-07 16:05:55,465 - INFO - <<<<<<<<<<<<<<<<<< Execução realizada >>>>>>>>>>>>>>>>>>>>>>>>>> 
